@@ -45,8 +45,8 @@
 	--background-tertiary: rgba(0, 0, 0, 0.5);                     /*                                                                        */
 	--border-primary: #5c5c5c;                                     /*                                                                        */
 	--border-secondary: #c0c0c0;                                   /*                                                                        */
-	--control-brand-foreground: #3a496b!important;                 /*                                                                        */
-	--brand-experiment: #3a496b!important;                         /* Selection Colors                                                       */
+	--control-brand-foreground: #ffb0b0!important;                 /*                                                                        */
+	--brand-experiment: #ffb0b0!important;                         /* Selection Colors                                                       */
 	--selection-background: #ffb0b0;                               /*                                                                        */
 	--selection-text: #FFDADA;                                     /* Red Button Colors                                                      */
 	--red-button: #712828;                                         /*                                                                        */
@@ -71,8 +71,8 @@
 	--GIFtButtons: none;                                           /* Icons Gap                                                              */
 	--settingsiconsgap: 14px;                                      /* Settings Sidebar Width                                                 */
 	--sidebar-width: 245px;                                        /* Scrollbar Slider Color                                                 */
-	--scrollbar-color: rgba(55, 55, 55, 0.5);                      /* Scrollbar Slider Hover Color                                           */
-	--scrollbar-hover-color: rgba(75, 75, 75, 1);                  /* Scrollbar Width                                                        */
+	--scrollbar-color: rgba(255, 176, 176, 1);                      /* Scrollbar Slider Hover Color                                           */
+	--scrollbar-hover-color: rgba(255, 176, 176, 0.5);                  /* Scrollbar Width                                                        */
 	--scrollbar-width: 8px;                                        /* Server Rings - Unread Color                                            */
 	--server-unread-colour: 130, 200, 255;                          /* Server Rings - Hover Color                                             */
   --server-hover-colour: 137, 224, 255;                          /* Server Rings - Selected Color                                          */
